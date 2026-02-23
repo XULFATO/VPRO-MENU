@@ -1,0 +1,5 @@
+MENU_Diseno: Aquí es donde dibujas el botón en el menú principal y le asignas el nombre de la macro que debe ejecutar (por ejemplo: Start_X).
+
+MENU_Starts: Aquí es donde creas la macro Start_X. Su única función es llamar al navegador pidiendo que se cree la hoja específica (por ejemplo: VCA_Nombre).
+
+MENU_Logic: Aquí es donde defines qué botones van dentro de esa hoja nueva. Simplemente añades un Case "VCA_Nombre" y escribes tantos CrearBoton como necesites para ese proceso.
